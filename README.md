@@ -55,7 +55,7 @@ Welcome to the **HTML, CSS, and JavaScript Projects Collection**! 🎯 This bran
 ## 🚀 **How to Run the Projects?**  
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-pritisingh196/html-css-js-projects.git
+   git clone https://github.com/pritisingh196/html-css-js-projects.git
    cd html-css-js-projects
    ```  
 2. **Open Any Project**  
